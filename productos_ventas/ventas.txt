@@ -1,0 +1,14 @@
+Carlos 1 23
+Fernando 7 56
+Lorenzo 7 99
+Ángela 8 100
+Carlos 5 10
+Carlos 10 20
+Carlos 7 56
+Pilar 9 11
+Pilar 5 1
+Carlos 7 3
+Carlos 9 78
+Ángela 8 5
+Lorenzo 3 30
+Fernando 9 2
